@@ -1,6 +1,6 @@
 # DM Viewer System
 
-Click [Here](https://github.com/0xvoided/dmviewer.git) to download
+Click [Here](git@github.com:0xvoided/dmviewer.git) to download
 
 ## Professional Chat Visualization
 
