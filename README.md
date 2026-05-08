@@ -1,7 +1,4 @@
 # DM Viewer System
-
-Click [Here](git@github.com:0xvoided/dmviewer.git) to download
-
 ## Professional Chat Visualization
 
 DM Viewer is a standalone web-based interface designed to transform your raw text logs into a clean, readable, and professional chat experience. It processes your data locally on your machine for maximum privacy.
